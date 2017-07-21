@@ -1,4 +1,4 @@
-package com.robpercival.connect3;
+package com.example.siddh.connect3;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
